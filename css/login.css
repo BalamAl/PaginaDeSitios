@@ -1,0 +1,12 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Evitar que el contenido haga scroll */
+}
+.tarjetaLogin{
+    width: 24rem;
+    margin-top: 10vh;
+}
+
+
