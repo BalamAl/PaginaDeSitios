@@ -1,0 +1,7 @@
+.modal-body img {
+    display: block;   /* Hace que las imágenes sean bloques para centrarlas */
+    margin-left: auto; /* Centra horizontalmente */
+    margin-right: auto; /* Centra horizontalmente */
+    max-width: 100%;   /* Asegura que las imágenes no excedan el ancho del modal */
+    height: auto;  
+}
